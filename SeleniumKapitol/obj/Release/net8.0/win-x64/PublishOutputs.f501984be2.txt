@@ -1,0 +1,5 @@
+C:\Users\belys\source\repos\SeleniumKapitol\SeleniumKapitol\bin\Release\net8.0\win-x64\publish\Heimdall.pdb
+C:\Users\belys\source\repos\SeleniumKapitol\SeleniumKapitol\bin\Release\net8.0\win-x64\publish\selenium-manager\linux\selenium-manager
+C:\Users\belys\source\repos\SeleniumKapitol\SeleniumKapitol\bin\Release\net8.0\win-x64\publish\selenium-manager\macos\selenium-manager
+C:\Users\belys\source\repos\SeleniumKapitol\SeleniumKapitol\bin\Release\net8.0\win-x64\publish\selenium-manager\windows\selenium-manager.exe
+C:\Users\belys\source\repos\SeleniumKapitol\SeleniumKapitol\bin\Release\net8.0\win-x64\publish\Heimdall.exe
